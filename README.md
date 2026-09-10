@@ -16,21 +16,9 @@
 <!--                         TAGLINE                           -->
 <!-- ========================================================= -->
 
-<p align="center">
-  <h2 align="center">
-    Turning real-world problems into reliable software solutions
-  </h2>
-</p>
-
-<p align="center">
-  <code>Java</code>
-  &nbsp;•&nbsp;
-  <code>Spring Boot</code>
-  &nbsp;•&nbsp;
-  <code>React</code>
-  &nbsp;•&nbsp;
-  <code>SQL</code>
-</p>
+<h3 align="center">
+  Turning real-world problems into reliable software solutions
+</h3>
 
 <br>
 
@@ -72,11 +60,7 @@
 
 <br>
 
----
 
-# 👨‍💻 About Me
-
----
 
 # 👨‍💻 About Me
 
@@ -95,7 +79,7 @@ I am also expanding my frontend capabilities with modern web technologies.
 - 🧠 Strengthening **Data Structures & Algorithms**
 - 💻 Building practical projects focused on real-world problems
 
----
+<br>
 
 <!-- ========================================================= -->
 <!--                    TECHNICAL SKILLS                       -->
@@ -116,7 +100,6 @@ I am also expanding my frontend capabilities with modern web technologies.
 
 </p>
 
----
 
 ### ⚙️ Backend
 
@@ -130,7 +113,6 @@ I am also expanding my frontend capabilities with modern web technologies.
 
 </p>
 
----
 
 ### 🗄️ Databases
 
@@ -141,7 +123,7 @@ I am also expanding my frontend capabilities with modern web technologies.
 
 </p>
 
----
+
 
 ### 🌱 Frameworks & Libraries
 
@@ -153,7 +135,7 @@ I am also expanding my frontend capabilities with modern web technologies.
 
 </p>
 
----
+
 
 ### 🌐 Frontend
 
@@ -166,7 +148,7 @@ I am also expanding my frontend capabilities with modern web technologies.
 
 </p>
 
----
+
 
 ### 🔧 Tools
 
@@ -180,7 +162,6 @@ I am also expanding my frontend capabilities with modern web technologies.
 
 </p>
 
----
 
 ### 🧠 Core Concepts
 
@@ -192,7 +173,7 @@ I am also expanding my frontend capabilities with modern web technologies.
 
 </p>
 
----
+
 
 ### 🏗️ APIs & Architecture
 
@@ -204,14 +185,7 @@ I am also expanding my frontend capabilities with modern web technologies.
 
 </p>
 
----
-
-
-## 🔗 APIs & Architecture
-
-**RESTful APIs • JSON • MVC Architecture**
-
----
+<br>
 
 # 🧠 Data Structures & Algorithms
 
@@ -240,7 +214,7 @@ problem-solving skills and prepare for technical interviews.
 
 </p>
 
----
+<br>
 
 # 🤝 Let's Connect
 
@@ -260,11 +234,6 @@ projects, and exploring software development opportunities.
 </p>
 
 <br>
-
 <p align="center">
-  <strong>Build • Learn • Improve</strong>
-</p>
-
-<p align="center">
-  <sub>Thanks for visiting my profile.</sub>
+  <h3 align="center">Thanks for visiting my profile.</h3>
 </p>
