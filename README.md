@@ -4,8 +4,9 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:16324F,100:0F766E&height=270&section=header&text=Soham%20Dey&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Java%20Full-Stack%20Developer&descSize=28&descAlignY=62"
+    src="./soham-github-header.svg"
     width="100%"
+    alt="Soham Dey - Java Full-Stack Developer"
   />
 </p>
 
