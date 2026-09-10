@@ -10,12 +10,26 @@
   />
 </p>
 
-<h2 align="center">
-  Turning real-world problems into reliable software solutions
-</h2>
+<br>
+
+<!-- ========================================================= -->
+<!--                         TAGLINE                           -->
+<!-- ========================================================= -->
 
 <p align="center">
-  Java • Spring Boot • Spring MVC • Spring Data JPA • Spring Security • Spring Cloud • Spring REST • Hibernate • REST APIs • Microservices • SQL • HTML • CSS • JavaScript • React • Maven • Git • GitHub
+  <h2 align="center">
+    Turning real-world problems into reliable software solutions
+  </h2>
+</p>
+
+<p align="center">
+  <code>Java</code>
+  &nbsp;•&nbsp;
+  <code>Spring Boot</code>
+  &nbsp;•&nbsp;
+  <code>React</code>
+  &nbsp;•&nbsp;
+  <code>SQL</code>
 </p>
 
 <br>
@@ -27,24 +41,40 @@
 <p align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="44"/>
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    height="38"
+  />
 </a>
 
 <a href="mailto:deysoham1210@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="44"/>
+  <img
+    src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    height="38"
+  />
 </a>
 
 <a href="YOUR_GITHUB_URL">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" height="44"/>
+  <img
+    src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
+    height="38"
+  />
 </a>
 
 <a href="./Soham-Dey-Resume.pdf">
-  <img src="https://img.shields.io/badge/RESUME-2C5364?style=for-the-badge&logo=readthedocs&logoColor=white" height="44"/>
+  <img
+    src="https://img.shields.io/badge/RESUME-2C5364?style=for-the-badge&logo=readthedocs&logoColor=white"
+    height="38"
+  />
 </a>
 
 </p>
 
 <br>
+
+---
+
+# 👨‍💻 About Me
 
 ---
 
