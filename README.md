@@ -204,11 +204,11 @@ problem-solving skills and prepare for technical interviews.
 
 <p>
 
-<a href="YOUR_LEETCODE_URL">
+<a href="https://leetcode.com/u/sohamdeyy/">
   <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="40"/>
 </a>
 
-<a href="YOUR_GFG_URL">
+<a href="https://www.geeksforgeeks.org/profile/soham_sde">
   <img src="https://img.shields.io/badge/GEEKSFORGEEKS-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="40"/>
 </a>
 
@@ -223,7 +223,7 @@ projects, and exploring software development opportunities.
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/soham-dey-bb4650341/">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="44"/>
 </a>
 
