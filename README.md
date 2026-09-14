@@ -28,7 +28,7 @@
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/soham-dey-bb4650341/">
   <img
     src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     height="38"
@@ -42,7 +42,7 @@
   />
 </a>
 
-<a href="YOUR_GITHUB_URL">
+<a href="https://github.com/sohamdey12">
   <img
     src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
     height="38"
@@ -71,13 +71,13 @@ My primary development focus is **Java backend development with Spring Boot**,
 including RESTful API development, database integration, and backend architecture.
 I am also expanding my frontend capabilities with modern web technologies.
 
-- ☕ Developing backend applications using **Java & Spring Boot**
-- 🔗 Designing and developing **RESTful APIs**
-- 🗄️ Working with **SQL and NoSQL databases**
-- 🏗️ Exploring **Microservices and distributed systems**
-- 📡 Working with event-driven technologies such as **Kafka & RabbitMQ**
-- 🧠 Strengthening **Data Structures & Algorithms**
-- 💻 Building practical projects focused on real-world problems
+- Developing backend applications using **Java & Spring Boot**
+- Designing and developing **RESTful APIs**
+- Working with **SQL and NoSQL databases**
+- Exploring **Microservices and distributed systems**
+- Working with event-driven technologies such as **Kafka & RabbitMQ**
+- Strengthening **Data Structures & Algorithms**
+- Building practical projects focused on real-world problems
 
 <br>
 
